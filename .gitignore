@@ -1,0 +1,7 @@
+*.class
+/bin/
+/out/
+appointments.csv
+.idea/
+*.iml
+.vscode/
